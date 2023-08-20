@@ -1,1 +1,15 @@
 /* your code */
+#table {
+	border-collapse: collapse;
+	width: 100%;
+	align-content: center;
+}
+#table>thead {
+	background: cadetblue;
+	color: maroon;
+	
+}
+#table>tbody{
+	background:azure;
+	align: center;
+}
